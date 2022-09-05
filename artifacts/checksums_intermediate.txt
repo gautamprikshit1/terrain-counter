@@ -1,0 +1,1 @@
+e4f467f8e2ee84b8c58527f1ac6787e6bcda2e4f257417e7fcc113619c49ec85  ./target/wasm32-unknown-unknown/release/raffle_drop.wasm
